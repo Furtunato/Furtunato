@@ -45,42 +45,17 @@
    </details>
      <summary><h2>📋Projetos</h2></summary> 
      <details open> 
-    <summary><h3>👨‍💻Solo</h3></summary>
-     <p align="left">
-       <a href="https://github.com/epicestudar/Spoofing-test">
-      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=Spoofing-test&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /> <br>
-         <a href="https://github.com/epicestudar/IntuitiveCare">
-      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=IntuitiveCare&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /> <br>
-    <a href="https://github.com/epicestudar/BMI_Calculator">
-      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=BMI_Calculator&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /> <br>
-       <a href="https://github.com/epicestudar/stopwatch">
-      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=stopwatch&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /> <br>
-         <a href="https://github.com/epicestudar/Digital_Bank">
-      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=Digital_Bank&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /> <br>
-            <a href="https://github.com/epicestudar/Loja_De_Carros">
-      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=Loja_De_Carros&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /> <br>
-               <a href="https://github.com/epicestudar/Memory_Game">
-      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=Memory_Game&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /> <br>
-                 <a href="https://github.com/epicestudar/Pizzaria">
-      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=Pizzaria&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /> <br>
-                      <a href="https://github.com/epicestudar/Plataforma_EAD">
-      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=Plataforma_EAD&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /> <br>
-                        <a href="https://github.com/epicestudar/Hostly-spring-API">
-      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=Hostly-spring-API&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /> <br>
-                          <a href="https://github.com/epicestudar/Hostly-java-interface">
-      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=Hostly-java-interface&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /> <br>
-     </p>
-         </details> <br><br><br>
+   
 
 <div align="center">
     <br><br><br><br><br><br><p align="centre"><b>count++ </b></p>  
-    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{epicestudar}/count.svg" /></p> 
+    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Furtunato}/count.svg" /></p> 
     <br>
   </div>
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/epicestudar/epicestudar/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/epicestudar/epicestudar/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/epicestudar/epicestudar/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Furtunato/Furtunato/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Furtunato/Furtunato/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Furtunato/Furtunato/output/pacman-contribution-graph.svg">
 </picture>
