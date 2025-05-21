@@ -1,16 +1,86 @@
-## Hi there 👋
+<img src="https://github.com/Furtunato/Furtunato/blob/master/wallpaper.png" alt="Mario Game" width="100%" height="250"> <br> <br>
+  
+  <p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=440&size=22&pause=1000&color=38F77CFF&center=true&vCenter=true&repeat=false&width=435&lines=Furtunato" alt="Typing SVG" /></a>
+</p> <br>
+  
+  <p align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=4CCA00&center=true&vCenter=true&width=435&lines=Cursando+CC+na+UNIP;Localizado+em+Limeira%2C+SP;Construindo+ideias%2C+linha+por+linha" alt="Typing SVG" /></a>
+  </p> <br>
 
-<!--
-**Furtunato/Furtunato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Furtunato&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Furtunato github stats" /> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Furtunato&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div> <br> <br>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details open>
+   <summary><h2>💻 Aprendendo e Codando:</h2></summary>
+    <h3>👨‍💻 Linguagens de Programação</h3>
+    <p>
+      <a href="https://github.com/Furtunato"><img width="60px" alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
+      <a href="https://github.com/Furtunato"><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
+      <a href="https://github.com/Furtunato"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+      <a href="https://github.com/Furtunato"><img width="95px" alt="Typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
+  </p>
+
+  <h3>👨‍💻 Linguagens de Marcação</h3>
+  <p>
+     <a href="https://github.com/Furtunato"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
+     <a href="https://github.com/Furtunato"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+  </p>
+
+   <h3>🗄️ Banco de Dados e Armazenamento em Nuvem</h3>
+
+  <p>
+      <a href="https://github.com/Furtunato"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
+  </p>
+
+  <h3>🛠️ Ferramentas de Trabalho</h3>
+  <p>
+      <a href="https://github.com/Furtunato"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
+      <a href="https://github.com/Furtunato"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
+      <a href="https://github.com/Furtunato"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+  </p> <br><br>
+   </details>
+     <summary><h2>📋Projetos</h2></summary> 
+     <details open> 
+    <summary><h3>👨‍💻Solo</h3></summary>
+     <p align="left">
+       <a href="https://github.com/epicestudar/Spoofing-test">
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=Spoofing-test&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /> <br>
+         <a href="https://github.com/epicestudar/IntuitiveCare">
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=IntuitiveCare&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /> <br>
+    <a href="https://github.com/epicestudar/BMI_Calculator">
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=BMI_Calculator&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /> <br>
+       <a href="https://github.com/epicestudar/stopwatch">
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=stopwatch&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /> <br>
+         <a href="https://github.com/epicestudar/Digital_Bank">
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=Digital_Bank&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /> <br>
+            <a href="https://github.com/epicestudar/Loja_De_Carros">
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=Loja_De_Carros&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /> <br>
+               <a href="https://github.com/epicestudar/Memory_Game">
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=Memory_Game&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /> <br>
+                 <a href="https://github.com/epicestudar/Pizzaria">
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=Pizzaria&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /> <br>
+                      <a href="https://github.com/epicestudar/Plataforma_EAD">
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=Plataforma_EAD&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /> <br>
+                        <a href="https://github.com/epicestudar/Hostly-spring-API">
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=Hostly-spring-API&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /> <br>
+                          <a href="https://github.com/epicestudar/Hostly-java-interface">
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=epicestudar&repo=Hostly-java-interface&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866" /> <br>
+     </p>
+         </details> <br><br><br>
+
+<div align="center">
+    <br><br><br><br><br><br><p align="centre"><b>count++ </b></p>  
+    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{epicestudar}/count.svg" /></p> 
+    <br>
+  </div>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/epicestudar/epicestudar/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/epicestudar/epicestudar/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/epicestudar/epicestudar/output/pacman-contribution-graph.svg">
+</picture>
