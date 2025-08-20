@@ -18,7 +18,7 @@
    <summary><h2>💻 Aprendendo e Codando:</h2></summary>
     <h3>👨‍💻 Linguagens de Programação</h3>
     <p>
-      <a href="https://github.com/Furtunato"><img width="60px" alt="Dart" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
+      <a href="https://github.com/Furtunato"><img width="60px" alt="PhP" src="https://img.shields.io/badge/PhP%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white">
       <a href="https://github.com/Furtunato"><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
       <a href="https://github.com/Furtunato"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
       <a href="https://github.com/Furtunato"><img width="95px" alt="Typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
@@ -46,12 +46,6 @@
      <summary><h2>📋Projetos</h2></summary> 
      <details open> 
    
-
-<div align="center">
-    <br><br><br><br><br><br><p align="centre"><b>count++ </b></p>  
-    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Furtunato}/count.svg" /></p> 
-    <br>
-  </div>
 
 
 <picture>
