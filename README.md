@@ -18,10 +18,9 @@
    <summary><h2>💻 Aprendendo e Codando:</h2></summary>
     <h3>👨‍💻 Linguagens de Programação</h3>
     <p>
-      <a href="https://github.com/Furtunato"><img width="60px" alt="PhP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white">
       <a href="https://github.com/Furtunato"><img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
       <a href="https://github.com/Furtunato"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-      <a href="https://github.com/Furtunato"><img width="95px" alt="Typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"></a>
+      <a href="https://github.com/Furtunato"><img width="55px" alt="Php" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
   </p>
 
   <h3>👨‍💻 Linguagens de Marcação</h3>
